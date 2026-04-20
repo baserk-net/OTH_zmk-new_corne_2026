@@ -7,4 +7,5 @@ on:
 
 jobs:
   build:
-    uses: zmkfirmware/zmk-build-action@main
+    # 尝试锁定到一个特定的 commit 或版本，或者使用 stable 分支（如果有）
+    uses: zmkfirmware/zmk-build-action@v2
