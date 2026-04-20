@@ -6,7 +6,7 @@ layers:
   - {t: W, h: Alt+2}
   - {t: E, h: Alt+3}
   - {t: R, h: Ctl+Y}
-  - T
+  - {t: T, h: Sft+Alt+Gui+T}
   - $$mdi:arrow-up-bold$$
   - Y
   - U
@@ -17,7 +17,7 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - {t: A, h: Ctl+A}
   - S
-  - D
+  - {t: D, h: Sft+Alt+Gui+D}
   - {t: F, h: Ctl+F}
   - {t: G, h: Ctl+G}
   - $$mdi:arrow-left-bold$$
